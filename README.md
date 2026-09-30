@@ -1,3 +1,3 @@
-# <Destiny Lee>'s Personal Website
+# Destiny Lee's Personal Website
 This is a personal website built using the Hack4Impact Starter Pack!
 <I am a runner.>
